@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-9Spokes is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.9spokes.com/
+9Spokes provides a SMB financial insights platform for banks and fintechs, turning SMB banking, cash‑flow, merchant and business‑app data into actionable analytics. The service helps financial institutions gain deeper visibility into small‑business customers, improve credit decisions, and enhance product offerings through data‑driven insights.
+
+**Areas:** Company · Fintech · Banking · SMB · DataAnalytics
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.9spokes.com/)
+- [Blog](https://9spokes.com/blogs/blog/building-with-banking-vs.-general-ledger-data)
+- [Terms of service](https://9spokes.com/terms-and-conditions)
+- [Privacy policy](https://9spokes.com/privacy-notice)
+- [GitHub](https://github.com/9spokes)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/9spokes/](https://apis.io/providers/9spokes/).
